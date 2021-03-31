@@ -1,0 +1,15 @@
+{
+  "name": "tuto-learnyoucode-nacer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-bonjour_monde.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^4.1.0",
+    "through2-map": "^3.0.0"
+  }
+}
