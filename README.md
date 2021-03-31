@@ -2,7 +2,12 @@
 ```
 npm install -g learnyounode
 ```
-## Lancer la commande :
+Si vous êtes sur Mac ou Linux et que cette commande ne fonctionne pas, taper :
+```
+sudo npm install -g learnyounode
+```
+
+### Lancer la commande :
 ```
 learnyounode
 ```
